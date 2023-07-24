@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-56228.jpg?w=996&t=st=1687945657~exp=1687946257~hmac=8abd7cfab7e821d1e257b8ad4cd7377c35dd81cc4537e7c5fa749e6e5f14f3e5');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.h
+{
+font-family:courier,monospace;
+color:red;
+font-size:5.5em;
+}
+</style>
+</head>
+<body>
+
+<p class="h">ABOUT</p>
+<dd style="font-size:15px;color:green;">I am outgoing,dedicate,and open-minded.I get across to people and adjust to change with ease.I believe that  a person should work on developing thrir professional skill and learning new things all time. Currently,I am looking for new career opportunities .</dd>
